@@ -40,7 +40,7 @@ a:hover { color: #E2373E;}
 .main02, .main03, .main04 { padding: 24px 0;}
 .main02 { background: linear-gradient(180deg, #D7D7D7 0%, #E6E6E6 50.48%, #F5F5F5 100%);}
 .main03 { 
-  background-image: url(img/03_bg2.png), url(img/03_bg1.png); 
+  background-image: url(../img/03_bg2.png), url(../img/03_bg1.png); 
   background-size: cover, auto;
   background-repeat: no-repeat, repeat;
   background-position: center center, center;
@@ -64,7 +64,7 @@ a:hover { color: #E2373E;}
 #main_banner .carousel-control-prev,
 #main_banner .carousel-control-next { width: 30px; color: #333; font-size: 24px;}
 
-.poster { background: url(img/03_poster_bg.jpg) center no-repeat;
+.poster { background: url(../img/03_poster_bg.jpg) center no-repeat;
   background-size: 100% 100%;
   padding: 13% 13%;
   width: 87%;
